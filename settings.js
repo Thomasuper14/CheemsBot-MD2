@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
+global.owner = ['39347037227']
+global.premium = ['393477037227']
+global.ownernomer = '393477037227'
+global.ownername = '🦄Hypnos'
+global.botname = 'Hypnos Bot V2'
 global.footer = 'Xeon Bot Inc.'
 global.ig = 'https://github.com/DGXeon'
 global.region = 'India, NorthEast, Mizoram'
 global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
 global.myweb = 'https://youtu.be/imFIX-Wrt3s'
 global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.author = '🦄Hypnos'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
